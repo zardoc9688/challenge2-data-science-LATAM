@@ -28,7 +28,7 @@ A través de un proceso completo de **ETL (Extracción, Transformación y Carga)
 ##  Estructura del Repositorio
 
 ```
-TelecomX_LATAM/
+challenge2-data-science-LATAM/
 │
 ├──  TelecomX_LATAM.ipynb       # Notebook principal con todo el análisis
 ├──  TelecomX_Data.json         # Dataset de clientes (fuente: API)
@@ -119,8 +119,8 @@ pd.json_normalize      Eliminar duplicados        Visualizaciones
 
 **1. Clonar el repositorio**
 ```bash
-git clone https://github.com/tu-usuario/TelecomX_LATAM.git
-cd TelecomX_LATAM
+git clone https://github.com/tu-usuario/challenge2-data-science-LATAM
+cd challenge2-data-science-LATAM
 ```
 
 **2. Instalar dependencias**
